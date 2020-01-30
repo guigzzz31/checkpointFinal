@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap');
+
+.container-party {
+  background-color: black;
+}
+
+.title {
+  font-family: 'Bowlby One SC', cursive;
+  font-size: 30px;
+  color: white;
+}
+
+.title-team-blue {
+  font-family: 'Bowlby One SC', cursive;
+  font-size: 22px;
+  color: #004c86;
+  border-style: solid;
+}
+
+.title-team-red {
+  font-family: 'Bowlby One SC', cursive;
+  font-size: 22px;
+  color: #cd2f07;
+  border-style: solid;
+}
+
+.versus {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 80px;
+  color: white;
+}
+
+.versus:hover {
+  font-size: 100px;
+}
